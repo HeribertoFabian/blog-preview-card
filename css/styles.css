@@ -76,9 +76,7 @@ body{
     color: var(--gray500);
 }
 
-.autor *{
-    outline: 1px solid red;
-}
+
 .autor{
     display: flex;
     align-items: center;
